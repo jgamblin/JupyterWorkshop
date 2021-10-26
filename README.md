@@ -16,11 +16,12 @@ In the hands-on lab,  we will work through some sample notebooks that will allow
 - Examine The Most Popular Domains
 - Deep Dive On CVE Data
 
-### software
+### Software & Libraries
 
 - [Google Colab](https://colab.research.google.com/)
 - [Jupyter Lab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
 - [Jupyter Lab "Classic"](https://jupyter.org/install)
+- [Folium](https://python-visualization.github.io/folium/)
 
 ### DataSets
 
