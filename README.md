@@ -22,6 +22,8 @@ In the hands-on lab,  we will work through some sample notebooks that will allow
 - [Jupyter Lab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
 - [Jupyter Lab "Classic"](https://jupyter.org/install)
 - [Folium](https://python-visualization.github.io/folium/)
+- [OSQuery.io](https://osquery.io/)
+
 
 ### Datasets
 
