@@ -16,19 +16,21 @@ In the hands-on lab,  we will work through some sample notebooks that will allow
 - Examine The Most Popular Domains
 - Deep Dive On CVE Data
 
-### Software & Libraries
+### Software
 
 - [Google Colab](https://colab.research.google.com/)
 - [Jupyter Lab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
 - [Jupyter Lab "Classic"](https://jupyter.org/install)
 - [Folium](https://python-visualization.github.io/folium/)
 
-### DataSets
+### Datasets
 
 - [NVD Datafeed](https://nvd.nist.gov/vuln/data-feeds)
 - [Cisco Top 1 Million Domains](http://s3-us-west-1.amazonaws.com/umbrella-static/index.html)
+- [MaxMind GeoLite2 Dataset](https://github.com/P3TERX/GeoLite.mmdb)
+- [Public Apache Access Logs](http://www.almhuette-raith.at/apache-log/access.log)
 
-### Related references
+### References
 
 - [Jupyter.org](https://jupyter.org/)
 - [Pandas.org](https://pandas.pydata.org/)
