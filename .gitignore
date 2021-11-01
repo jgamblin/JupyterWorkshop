@@ -128,7 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# logs and Databases
+# logs and Datasets
 .log
 .mmdb
 .json
+/CVE/jsondata
