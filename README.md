@@ -13,7 +13,8 @@ In this introduction session, we will work as a group to look at the basics of J
 In the hands-on lab,  we will work through some sample notebooks that will allow us to:
 
 - Perfrom Advanced IP Lookups
-- Examine The Most Popular Domains
+- Investigate OSQuery Data
+- Examine Popular Domains
 - Deep Dive On CVE Data
 
 ### Software
